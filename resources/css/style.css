@@ -1,0 +1,35 @@
+
+body{
+    background: black;
+    text-align: center;
+       
+}
+.mainTitle h1{
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+    align-content: center;
+}
+
+h2{
+    color: white;
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: 300;
+
+}
+.links{
+    color: aquamarine;
+    font-size: 16px;
+}
+p{
+    font-family: Verdana,Arial, Helvetica, sans-serif;
+    font-size: 21px;
+    color: gray;
+}
+em {
+    font-family: Helvetica;
+    color: blue;
+    font-weight: bold;
+}
